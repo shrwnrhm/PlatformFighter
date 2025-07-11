@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bo3pocvppojbd"
-path="res://.godot/imported/Mossy - FloatingPlatforms.png-d2998f87a07e13b4cccb660e4805567d.ctex"
+uid="uid://ch6p3unah1j5t"
+path="res://.godot/imported/Idle-Sheet.png-1ed58900f74b8492f96244fc1918a491.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tilesets/Mossy - FloatingPlatforms.png"
-dest_files=["res://.godot/imported/Mossy - FloatingPlatforms.png-d2998f87a07e13b4cccb660e4805567d.ctex"]
+source_file="res://assets/entities/Idle-Sheet.png"
+dest_files=["res://.godot/imported/Idle-Sheet.png-1ed58900f74b8492f96244fc1918a491.ctex"]
 
 [params]
 
